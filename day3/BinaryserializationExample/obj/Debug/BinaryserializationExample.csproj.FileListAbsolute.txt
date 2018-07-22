@@ -1,0 +1,6 @@
+C:\Users\nexwave\Documents\Visual Studio 2015\Projects\day3example\BinaryserializationExample\bin\Debug\BinaryserializationExample.exe.config
+C:\Users\nexwave\Documents\Visual Studio 2015\Projects\day3example\BinaryserializationExample\bin\Debug\BinaryserializationExample.exe
+C:\Users\nexwave\Documents\Visual Studio 2015\Projects\day3example\BinaryserializationExample\bin\Debug\BinaryserializationExample.pdb
+C:\Users\nexwave\Documents\Visual Studio 2015\Projects\day3example\BinaryserializationExample\obj\Debug\BinaryserializationExample.csprojResolveAssemblyReference.cache
+C:\Users\nexwave\Documents\Visual Studio 2015\Projects\day3example\BinaryserializationExample\obj\Debug\BinaryserializationExample.exe
+C:\Users\nexwave\Documents\Visual Studio 2015\Projects\day3example\BinaryserializationExample\obj\Debug\BinaryserializationExample.pdb

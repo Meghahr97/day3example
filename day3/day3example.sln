@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "linqExample", "linqExample\linqExample.csproj", "{E373EB1A-F7D9-45AD-ACAC-1C3431F44BC7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegateExample", "DelegateExample\DelegateExample.csproj", "{44555504-3BE1-40C9-A6AF-160A264B13D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AttributeExample", "AttributeExample\AttributeExample.csproj", "{CBF3A886-474F-4DB7-A736-35D3938DED74}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryserializationExample", "BinaryserializationExample\BinaryserializationExample.csproj", "{311F7C8A-5C50-459C-80A5-087169F8180A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xmlserialisation", "Xmlserialisation\Xmlserialisation.csproj", "{64477FE8-E6D0-44C7-8125-C753FB2B01E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xmlincsharp", "Xmlincsharp\Xmlincsharp.csproj", "{D6A36643-0F03-4741-9C9C-B3D9F74E0054}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E373EB1A-F7D9-45AD-ACAC-1C3431F44BC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E373EB1A-F7D9-45AD-ACAC-1C3431F44BC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E373EB1A-F7D9-45AD-ACAC-1C3431F44BC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E373EB1A-F7D9-45AD-ACAC-1C3431F44BC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44555504-3BE1-40C9-A6AF-160A264B13D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44555504-3BE1-40C9-A6AF-160A264B13D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44555504-3BE1-40C9-A6AF-160A264B13D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44555504-3BE1-40C9-A6AF-160A264B13D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBF3A886-474F-4DB7-A736-35D3938DED74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBF3A886-474F-4DB7-A736-35D3938DED74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBF3A886-474F-4DB7-A736-35D3938DED74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBF3A886-474F-4DB7-A736-35D3938DED74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{311F7C8A-5C50-459C-80A5-087169F8180A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{311F7C8A-5C50-459C-80A5-087169F8180A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{311F7C8A-5C50-459C-80A5-087169F8180A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{311F7C8A-5C50-459C-80A5-087169F8180A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64477FE8-E6D0-44C7-8125-C753FB2B01E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64477FE8-E6D0-44C7-8125-C753FB2B01E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64477FE8-E6D0-44C7-8125-C753FB2B01E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64477FE8-E6D0-44C7-8125-C753FB2B01E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6A36643-0F03-4741-9C9C-B3D9F74E0054}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6A36643-0F03-4741-9C9C-B3D9F74E0054}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6A36643-0F03-4741-9C9C-B3D9F74E0054}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6A36643-0F03-4741-9C9C-B3D9F74E0054}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
