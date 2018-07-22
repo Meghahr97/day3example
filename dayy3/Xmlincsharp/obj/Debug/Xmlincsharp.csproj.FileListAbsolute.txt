@@ -1,0 +1,6 @@
+C:\Users\nexwave\Documents\Visual Studio 2015\Projects\day3example\Xmlincsharp\bin\Debug\Xmlincsharp.exe.config
+C:\Users\nexwave\Documents\Visual Studio 2015\Projects\day3example\Xmlincsharp\bin\Debug\Xmlincsharp.exe
+C:\Users\nexwave\Documents\Visual Studio 2015\Projects\day3example\Xmlincsharp\bin\Debug\Xmlincsharp.pdb
+C:\Users\nexwave\Documents\Visual Studio 2015\Projects\day3example\Xmlincsharp\obj\Debug\Xmlincsharp.csprojResolveAssemblyReference.cache
+C:\Users\nexwave\Documents\Visual Studio 2015\Projects\day3example\Xmlincsharp\obj\Debug\Xmlincsharp.exe
+C:\Users\nexwave\Documents\Visual Studio 2015\Projects\day3example\Xmlincsharp\obj\Debug\Xmlincsharp.pdb

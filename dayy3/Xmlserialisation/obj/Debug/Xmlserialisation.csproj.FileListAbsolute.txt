@@ -1,0 +1,5 @@
+C:\Users\nexwave\Documents\Visual Studio 2015\Projects\day3example\Xmlserialisation\bin\Debug\Xmlserialisation.exe.config
+C:\Users\nexwave\Documents\Visual Studio 2015\Projects\day3example\Xmlserialisation\bin\Debug\Xmlserialisation.exe
+C:\Users\nexwave\Documents\Visual Studio 2015\Projects\day3example\Xmlserialisation\bin\Debug\Xmlserialisation.pdb
+C:\Users\nexwave\Documents\Visual Studio 2015\Projects\day3example\Xmlserialisation\obj\Debug\Xmlserialisation.exe
+C:\Users\nexwave\Documents\Visual Studio 2015\Projects\day3example\Xmlserialisation\obj\Debug\Xmlserialisation.pdb
